@@ -15,27 +15,27 @@ Proyek Naive Bayes Classification
 
 <br>
 <p align="center">
-        <img src="/images_github/1.jpg" width="500" height="300">
+        <img src="/images_github/HASIL1.jpg" width="500" height="300">
 </p>
 
 <br>
 <p align="center">
-        <img src="/images_github/2.jpg" width="500" height="300">
+        <img src="/images_github/HASIL2.jpg" width="500" height="300">
 </p>
 
 <br>
 <p align="center">
-        <img src="/images_github/3.jpg" width="500" height="300">
+        <img src="/images_github/HASIL3.jpg" width="500" height="300">
 </p>
 
 <br>
 <p align="center">
-        <img src="/images_github/4.jpg" width="500" height="300">
+        <img src="/images_github/HASIL4.jpg" width="500" height="300">
 </p>
 
 <br>
 <p align="center">
-        <img src="/images_github/5.jpg" width="500" height="300">
+        <img src="/images_github/HASIL5.jpg" width="500" height="300">
 </p>
 <br>
 
