@@ -2,11 +2,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![GitHub last commit](https://img.shields.io/github/last-commit/kholilboy/naive-bayes)
 
-## STAR REPOSITORY Ini, Untuk Membantu Saya Dalam Meningkatkan Project Repo
-- Kirim Pull Request Jika ingin berkontribusi dalam project ini
-- Kirim Issues, Jika ada permasalahan pada project ini
+##Project ini adalah salah satu soal UTS Matkul Machine Learning (ML) di semester 6
 
-## Sistem Pengambilan Keputusan - Klasifikasi Status Calon Nasabah
+## Sistem Pengambilan Keputusan - Klasifikasi Apakah Seseorang Akan Belorahlaga atau Tidak
 Proyek Naive Bayes Classification
 
 ## Tools
