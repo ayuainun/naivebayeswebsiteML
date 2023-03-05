@@ -15,27 +15,27 @@ Proyek Naive Bayes Classification
 
 <br>
 <p align="center">
-        <img src="/images_github/HASIL1.jpg" width="500" height="300">
+        <img src="https://github.com/ayuainun/naivebayeswebsiteML/blob/main/HASIL1.JPG" width="500" height="300">
 </p>
 
 <br>
 <p align="center">
-        <img src="/images_github/HASIL2.jpg" width="500" height="300">
+        <img src="https://github.com/ayuainun/naivebayeswebsiteML/blob/main/HASIL2.JPG" width="500" height="300">
 </p>
 
 <br>
 <p align="center">
-        <img src="/images_github/HASIL3.jpg" width="500" height="300">
+        <img src="https://github.com/ayuainun/naivebayeswebsiteML/blob/main/HASIL3.JPG" width="500" height="300">
 </p>
 
 <br>
 <p align="center">
-        <img src="/images_github/HASIL4.jpg" width="500" height="300">
+        <img src="https://github.com/ayuainun/naivebayeswebsiteML/blob/main/HASIL4.JPG" width="500" height="300">
 </p>
 
 <br>
 <p align="center">
-        <img src="/images_github/HASIL5.jpg" width="500" height="300">
+        <img src="https://github.com/ayuainun/naivebayeswebsiteML/blob/main/HASIL5.JPG" width="500" height="300">
 </p>
 <br>
 
